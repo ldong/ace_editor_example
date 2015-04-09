@@ -10,7 +10,7 @@ Date: Thu Apr  9 16:43:22 PDT 2015
 
 1. clone this repo
 
-2. download [ace-build repo](https://github.com/ajaxorg/ace-builds.git)
+2. download [ace-build repo](https://github.com/ajaxorg/ace-builds.git) `git clone git@github.com:ajaxorg/ace-builds.git`
 
 2. run `python -m SimpleHTTPServer 8080`
 
