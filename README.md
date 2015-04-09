@@ -8,9 +8,13 @@ Date: Thu Apr  9 16:43:22 PDT 2015
 
 [ACE](http://ace.c9.io/) example
 
-1. run `python -m SimpleHTTPServer 8080`
+1. clone this repo
 
-2. goto [localhost:8080](http://localhost:8080)
+2. download [ace-build repo](https://github.com/ajaxorg/ace-builds.git)
+
+2. run `python -m SimpleHTTPServer 8080`
+
+3. goto [localhost:8080](http://localhost:8080)
 
 
 ## Reference
